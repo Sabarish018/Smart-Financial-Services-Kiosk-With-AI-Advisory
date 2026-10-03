@@ -36,5 +36,5 @@ Anna University, Chennai
 * **AI Financial Advisor:** Automated, tailored financial planning, budgeting, and investment suggestions via Groq API.
 * **Interactive Financial Chatbot:** Real-time conversational assistant for common finance and banking queries.
 * **Fraud Risk Detection:** Analysis of suspicious SMS, payment links, and UPI transaction requests to detect phishing and scams.
-* **KYC & Digital Document Management:** Secure storage and organization of uploaded financial documents (PDF, DOCX, JPG, PNG.
+* **KYC & Digital Document Management:** Secure storage and organization of uploaded financial documents (PDF, DOCX, JPG, PNG).
 * **Admin Analytics & Reporting:** Comprehensive dashboard for activity logs, user analytics, and exporting reports in PDF and Excel formats.
